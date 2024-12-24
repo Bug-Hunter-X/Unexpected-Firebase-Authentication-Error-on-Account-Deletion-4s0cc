@@ -1,0 +1,1 @@
+The Firebase Authentication SDK might throw an unexpected error if the user's account is deleted or disabled while the authentication process is in progress. This can occur due to asynchronous operations and timing issues, making it difficult to handle gracefully.
